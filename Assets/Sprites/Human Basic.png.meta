@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 13511683b8f74684290c6215fc5bc4b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8941605751834247274
+    second: Human_Idle_1
+  - first:
+      213: 7640002166111547826
+    second: Human_Idle_2
+  - first:
+      213: -353468832467794923
+    second: Human_Idle_3
+  - first:
+      213: -265413983670930214
+    second: Human_Idle_4
+  - first:
+      213: 5914677151279983973
+    second: Human Fire_1
+  - first:
+      213: 4379369255193331625
+    second: Human Fire_2
+  - first:
+      213: -7044283292863655008
+    second: Human Fire_3
+  - first:
+      213: -2216151999701777992
+    second: Human Fire_4
+  - first:
+      213: 5116850756975150957
+    second: Human Fire_5
+  - first:
+      213: -3450295815260861771
+    second: Human Fire_6
+  - first:
+      213: -5270098959805755794
+    second: Human Run_1
+  - first:
+      213: 4571142455321128384
+    second: Human Run_2
+  - first:
+      213: -527743877668211456
+    second: Human Run_3
+  - first:
+      213: 3615617611043737150
+    second: Human Run_4
+  - first:
+      213: -6719157221390039105
+    second: Human Rocket
+  - first:
+      213: 8212775044620386619
+    second: Human Basic_15
+  - first:
+      213: 4751040902227804770
+    second: Human Basic_16
+  - first:
+      213: 4399916570119393229
+    second: Human Basic_17
+  - first:
+      213: -4198055023687541385
+    second: Human_Idle_1
+  - first:
+      213: 1001617129285006401
+    second: Human_Idle_2
+  - first:
+      213: 6168624162566648246
+    second: Human_Idle_3
+  - first:
+      213: 82122529046409921
+    second: Human_Idle_4
+  - first:
+      213: 505549285682611965
+    second: Human_Fire_1
+  - first:
+      213: -4872585778278553925
+    second: Human_Fire_2
+  - first:
+      213: 3171976701087586158
+    second: Human_Fire_3
+  - first:
+      213: -7273085075000718060
+    second: Human_Fire_4
+  - first:
+      213: 6689780388508413999
+    second: Human_Fire_6
+  - first:
+      213: 6949630945725928640
+    second: Human_Fire_7
+  - first:
+      213: -3208400689486742993
+    second: Human_Run_1
+  - first:
+      213: 8716803275188974081
+    second: Human_Run_2
+  - first:
+      213: 2920131714379096489
+    second: Human_Run_3
+  - first:
+      213: -2373349095159855774
+    second: Human_Run_4
+  - first:
+      213: 7918901160419761080
+    second: Human_Rocket
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d5f8db2338db5c0800000000000000
+      internalID: -4198055023687541385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144baf7e87576ed00800000000000000
+      internalID: 1001617129285006401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13daa3efa5b9550800000000000000
+      internalID: 6168624162566648246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c23edb4102c32100800000000000000
+      internalID: 82122529046409921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df680959562140700800000000000000
+      internalID: 505549285682611965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6261cfc09116cb0800000000000000
+      internalID: -4872585778278553925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e671428f000250c20800000000000000
+      internalID: 3171976701087586158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d0363a8afc01b90800000000000000
+      internalID: -7273085075000718060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f203b62c1dfd6dc50800000000000000
+      internalID: 6689780388508413999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c45e00468c027060800000000000000
+      internalID: 6949630945725928640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Run_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a360e52987973d0800000000000000
+      internalID: -3208400689486742993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Run_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b99a256e48f870800000000000000
+      internalID: 8716803275188974081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Run_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a12bec9254668820800000000000000
+      internalID: 2920131714379096489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Run_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265800f829b201fd0800000000000000
+      internalID: -2373349095159855774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Rocket
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9f3636a695ed60800000000000000
+      internalID: 7918901160419761080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

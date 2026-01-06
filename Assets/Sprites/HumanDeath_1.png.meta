@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: c9aa85fda3928434d8bc87edea2e1b61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -918754181981607005
+    second: HumanDeath_1_0
+  - first:
+      213: -3887626226804466299
+    second: HumanDeath_1_1
+  - first:
+      213: 6530171003459018321
+    second: HumanDeath_1_2
+  - first:
+      213: -4001342546797088435
+    second: HumanDeath_1_3
+  - first:
+      213: -4180496784807935072
+    second: HumanDeath_1_4
+  - first:
+      213: 4300903798437684871
+    second: HumanDeath_1_5
+  - first:
+      213: 1472601449489291309
+    second: HumanDeath_1_6
+  - first:
+      213: -5790172048154097548
+    second: HumanDeath_1_7
+  - first:
+      213: 6879276049265745583
+    second: HumanDeath_1_8
+  - first:
+      213: 5339016836950378181
+    second: HumanDeath_1_9
+  - first:
+      213: 4782152392315006232
+    second: HumanDeath_1_10
+  - first:
+      213: 8086645295556320537
+    second: HumanDeath_1_11
+  - first:
+      213: 5112083343204836129
+    second: HumanDeath_1_12
+  - first:
+      213: 1829177648013076704
+    second: HumanDeath_1_13
+  - first:
+      213: -5799664460339252959
+    second: HumanDeath_1_0
+  - first:
+      213: -8612816285979199362
+    second: HumanDeath_1_1
+  - first:
+      213: 7500760910329863041
+    second: HumanDeath_1_2
+  - first:
+      213: -8724522902097201602
+    second: HumanDeath_1_3
+  - first:
+      213: -4824185553709695792
+    second: HumanDeath_1_4
+  - first:
+      213: 3075001391191805175
+    second: HumanDeath_1_5
+  - first:
+      213: -503654847072626831
+    second: HumanDeath_1_6
+  - first:
+      213: 3173897731754739489
+    second: HumanDeath_1_7
+  - first:
+      213: 5698899307652934530
+    second: HumanDeath_1_8
+  - first:
+      213: -3635186669236445725
+    second: HumanDeath_1_9
+  - first:
+      213: 4182171256649934473
+    second: HumanDeath_1_10
+  - first:
+      213: 37555523395736176
+    second: HumanDeath_1_11
+  - first:
+      213: 2282580713094792514
+    second: HumanDeath_1_12
+  - first:
+      213: 6304612469115653306
+    second: HumanDeath_1_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HumanDeath_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1217509b6e3738fa0800000000000000
+      internalID: -5799664460339252959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78b2867831297880800000000000000
+      internalID: -8612816285979199362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bd855ae4e081860800000000000000
+      internalID: 7500760910329863041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e367cb125a44ce680800000000000000
+      internalID: -8724522902097201602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcff8c6ccc0d0db0800000000000000
+      internalID: -4824185553709695792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcc1d529799caa20800000000000000
+      internalID: 3075001391191805175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17715d6c598a209f0800000000000000
+      internalID: -503654847072626831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c8a6cb23fb0c20800000000000000
+      internalID: 3173897731754739489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6f5be9be861f40800000000000000
+      internalID: 5698899307652934530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed1deffbf83d8dc0800000000000000
+      internalID: -3635186669236445725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e77e899e0a0a30800000000000000
+      internalID: 4182171256649934473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0725b5fac8c658000800000000000000
+      internalID: 37555523395736176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2454c2f901b5daf10800000000000000
+      internalID: 2282580713094792514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanDeath_1_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.2666667, y: 0.5384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc032c23ab7e7750800000000000000
+      internalID: 6304612469115653306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
